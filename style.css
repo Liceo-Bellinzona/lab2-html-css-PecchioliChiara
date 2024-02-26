@@ -9,6 +9,9 @@ h2 {
     text-align: center;
     margin-left: 5%;
     margin-right: 5%;
+    border-radius: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
     
     }
 
@@ -31,4 +34,8 @@ img {
     margin: auto;
     display: block;
 
+}
+
+a{
+    text-decoration: none;
 }
